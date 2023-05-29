@@ -2,6 +2,7 @@ import './sidebar.scss'
 import {Link } from 'react-router-dom'
 
 export const Sidebar = () => {
+
     return (
         <div className="sidebar">
             <div className="sidebar-container">
